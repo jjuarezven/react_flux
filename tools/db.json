@@ -72,11 +72,11 @@
     },
     {
       "id": 11,
-      "slug": "a2",
-      "title": "a2",
+      "slug": "ssd",
+      "title": "ssd",
       "authorId": 1,
-      "category": "a2",
-      "createdAt": 1618259562683
+      "category": "ds",
+      "createdAt": 1618339619345
     }
   ],
   "authors": [

@@ -26,6 +26,7 @@ const ManageCoursePage = (props) => {
       [event.target.name]: event.target.value,
     };
     setCourse(updatedCourse);
+    formIsValid();
   };
 
   const formIsValid = () => {
